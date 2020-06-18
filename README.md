@@ -14,3 +14,4 @@ Implementation uses templates allowing very flexible code. It includes types suc
 -reference and const reference,
 -iterator and const iterator.
 
+Project file contains short demonstratrion along with custom Z3 class that implements an algebraic field that consist of numbers from 0 to 2.
